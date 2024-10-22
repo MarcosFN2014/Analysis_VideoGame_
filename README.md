@@ -86,5 +86,6 @@ Este projeto utiliza as seguintes bibliotecas Python:
 - **Murilo Silva**  
   [GitHub](https://github.com/usuario3) | [LinkedIn](https://www.linkedin.com/in/murilo-silva-bb2741a1)
 
-- **Marcos Carvalho**
+- **Marcos Carvalho**  
   [GitHub](https://github.com/MarcosFN2014) | [LinkedIn](https://www.linkedin.com/in/marcos-carvalho-8173a2241/)
+
